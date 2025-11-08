@@ -56,12 +56,12 @@
    - 保存合成图像为PNG格式
    - 导出提取数据和层级信息
 
-### 输出文件结构
+输出文件结构
 extraction/
-├── sprites/ 提取的精灵图像
-├── extraction_data.json 完整提取数据
-├── sprite_data.json 精灵元数据
-└── hierarchy.txt 层级结构信息
+├── sprites/ # 提取的精灵图像
+├── extraction_data.json # 完整提取数据
+├── sprite_data.json # 精灵元数据
+└── hierarchy.txt # 层级结构信息
 
 text
 ### 系统要求
@@ -86,7 +86,7 @@ python tkinter_app.py
 
 Tkinter通常随Python一起安装，如遇问题请确保安装正确
 
-##  English
+##  english
 Manosaba Character Sprite Extraction Tool
 A specialized Unity character sprite extraction tool designed for the "Manosaba" game, supporting extraction, composition, and management of character sprites from Unity bundle files.
 
@@ -159,7 +159,7 @@ Save composite images as PNG
 Export extraction data and hierarchy information
 
 Output File Structure
-text
+
 extraction/
 ├── sprites/              # Extracted sprite images
 ├── extraction_data.json  # Complete extraction data
