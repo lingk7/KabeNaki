@@ -77,9 +77,11 @@ extraction/
 ### 安装依赖
 
 pip install UnityPy pillow numpy
+
 运行方法
-bash
+
 python tkinter_app.py
+
 注意事项
 确保有足够的磁盘空间存放提取的文件
 
@@ -186,11 +188,13 @@ Windows 10/11 (Recommended)
 Minimum 4GB available RAM
 
 Install Dependencies
-bash
+
 pip install UnityPy pillow numpy
+
 How to Run
-bash
+
 python tkinter_app.py
+
 Notes
 Ensure sufficient disk space for extracted files
 
