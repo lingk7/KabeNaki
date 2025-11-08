@@ -64,7 +64,6 @@ extraction/
 └── hierarchy.txt # 层级结构信息
 
 text
-
 ### 系统要求
 
 - Python 3.8+
